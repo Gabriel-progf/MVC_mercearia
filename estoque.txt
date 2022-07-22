@@ -1,0 +1,4 @@
+banana|5|Frutas|18
+abacaxi|5|Frutas|14
+morango|5|Frutas|13
+abobora|4|Verduras|18

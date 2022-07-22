@@ -1,0 +1,2 @@
+morango|5|Frutas|Marcio|Carlos|3|22/07/2022
+banana|5|Frutas|Gabriel|Joao|2|22/07/2022
